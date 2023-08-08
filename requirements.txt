@@ -1,0 +1,10 @@
+torch 
+transformers 
+sentencepiece 
+pandas
+matplotlib
+japanize_matplotlib
+ginza
+ja_ginza
+protobuf==3.20.0
+
